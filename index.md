@@ -15,6 +15,7 @@ E... Se você tomar gosto ou tiver um pouquinho de curiosidade entrar cada vez m
 Teremos um dia inteiro com exposições, palestras e oficinas.
 
 ### Programação
+
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
 | col 1 is |  left-aligned | $1600 |
