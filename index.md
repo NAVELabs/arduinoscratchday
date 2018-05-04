@@ -17,8 +17,8 @@ Teremos um dia inteiro com exposições, palestras e oficinas.
 ### Programação
 
 |-----------------+------------+-----------------+----------------|
-| Default aligned |Left aligned| Center aligned  | Right aligned  |
-|-----------------|:-----------|:---------------:|---------------:|
+| Horário |Sala 21| Sala 22  | Sala 23  |Sala 24
+|-----------------|------------|-----------------|----------------|
 | First body part |Second cell | Third cell      | fourth cell    |
 | Second line     |foo         | **strong**      | baz            |
 | Third line      |quux        | baz             | bar            |
